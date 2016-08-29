@@ -1,3 +1,4 @@
+//Randomization Library
 #if !defined RANDOM_H
 #define RANDOM_H
 
